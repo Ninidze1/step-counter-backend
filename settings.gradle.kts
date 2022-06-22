@@ -1,0 +1,1 @@
+rootProject.name = "btu.backend.front-end-exam"
