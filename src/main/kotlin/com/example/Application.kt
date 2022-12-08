@@ -19,11 +19,3 @@ fun main() {
         configureSerialization()
     }.start(wait = true)
 }
-
-//embeddedServer(Netty, port = 8080, host = "0.0.0.0") {
-//Database.connect(
-//url = "jdbc:postgresql://localhost:5432/collection",
-//driver = "org.postgresql.Driver",
-//user = "postgres",
-//password = "191023"
-//)
